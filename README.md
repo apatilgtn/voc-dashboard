@@ -16,8 +16,7 @@ mkdir backend frontend
 cd backend
 
 # Create virtual environment
-python3 -m venv venv
-
+python3.9 -m venv venv
 
 # Activate virtual environment
 # On Windows:
